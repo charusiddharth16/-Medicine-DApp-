@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.311237ae.css",
+    "main.js": "/static/js/main.9b58e8df.js",
+    "static/media/9508803_26807.jpg": "/static/media/9508803_26807.cf69af04fc81f375d9c8.jpg",
+    "static/media/27374040_7283494.jpg": "/static/media/27374040_7283494.9e0b94b7177bfed674cf.jpg",
+    "static/media/medicine.png": "/static/media/medicine.21e42dd0e05838b8fe27.png",
+    "index.html": "/index.html",
+    "main.311237ae.css.map": "/static/css/main.311237ae.css.map",
+    "main.9b58e8df.js.map": "/static/js/main.9b58e8df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.311237ae.css",
+    "static/js/main.9b58e8df.js"
+  ]
+}
